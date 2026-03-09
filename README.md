@@ -1,7 +1,7 @@
 # ¡Qué onda! Soy Bairon 👋🏻 | Creador Full Stack 🛠️ & SysAdmin 🚀
 
 [![Website](https://img.shields.io/badge/website-bviron.dev-blue?style=for-the-badge)](https://bviron.dev)
-[![Email](https://img.shields.io/badge/email-admin@bviron.dev-red?style=for-the-badge)](mailto:bvironnn@icloud.com)
+[![Email](https://img.shields.io/badge/email-bvirondev@proton.me-red?style=for-the-badge)](mailto:bvirondev@proton.me)
 [![Discord](https://img.shields.io/badge/Discord-bviron-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 Soy un Full Stack Developer y SysAdmin que le mete mano a todo, desde el diseño más pulcro hasta las funciones más innovadoras. Me apasiona construir cosas que funcionen desde el inicio y optimizarlas para que rindan al máximo.
